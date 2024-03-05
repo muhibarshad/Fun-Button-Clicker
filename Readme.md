@@ -20,8 +20,8 @@ This is my first simple Java GUI program, demonstrating basic concepts of Swing 
 To run the program, make sure you have Java installed on your system.
 
 1. Clone this repository to your local machine.
-2. Compile the Java source file: `javac Dum.java`
-3. Run the compiled program: `java Dum`
+2. Compile the Java source file: `javac onHover.java`
+3. Run the compiled program: `java onHover`
 
 ## Contributing
 
